@@ -97,17 +97,12 @@ Through this task, I learned:
 
 ## Repository Link
 
-Add your repository URL here:
+(https://github.com/thofid1617/ApexPlanet-Task1)
 
-```text
-https://github.com/yourusername/ApexPlanet-Task1
-```
-
----
 
 ## Author
 
-**Your Name**
+**SHAIK MOHAMMED THOFID**
 
 Android App Development Intern  
 ApexPlanet Software Pvt. Ltd.
